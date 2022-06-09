@@ -5,7 +5,7 @@
 
 <img width="512" alt="Снимок экрана 2022-06-09 в 03 03 55" src="https://user-images.githubusercontent.com/91221560/172737261-f5d44b7b-391c-4e4b-91a2-2d0ace8103ff.png">
 
-* Выбирала с достаточно большим содержанием GC%:
+* Выбирала с достаточно большим содержанием GC%, у всех assembly level complete:
 <img width="403" alt="Снимок экрана 2022-06-09 в 02 59 37" src="https://user-images.githubusercontent.com/91221560/172737358-a7f2ca2d-0ab1-4600-b672-4d94e3651f53.png">
 
 * Проанализировала аннотированные гены и произвела работу zhunt, получились следующие результаты:
