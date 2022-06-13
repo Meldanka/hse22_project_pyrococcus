@@ -1,5 +1,7 @@
 # hse22_project_pyrococcus
 
+* Google colab https://colab.research.google.com/drive/1TL4SnCnUJ-ginrje5i1uSEClQTsUS-Ju?usp=sharing
+
 * Будем анализировать 5 геномов архей pyrococcus
 * Общая информация: экстратермофильный вид архей, один из немногих организмов, содержащих вольфрам в составе ферментов.
 
