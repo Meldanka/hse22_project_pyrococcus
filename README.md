@@ -23,6 +23,8 @@
 <img width="392" alt="Снимок экрана 2022-06-09 в 03 01 18" src="https://user-images.githubusercontent.com/91221560/172737692-8ec7999f-8d97-4174-a546-14bb415e3fd7.png">
 <img width="392" alt="Снимок экрана 2022-06-09 в 03 01 26" src="https://user-images.githubusercontent.com/91221560/172737704-deeb4db4-fa0f-4a0d-8b66-47cb2d4ecb96.png">
 
+* Видно, что смещение в сторону небольших значений.
+
 * Визуализируем предсказанные участки Z-DNA
 
 <img width="899" alt="Снимок экрана 2022-06-12 в 18 23 03" src="https://user-images.githubusercontent.com/91221560/173240527-1ded2b0e-b4d6-41bf-9ac5-011ca3572531.png">
